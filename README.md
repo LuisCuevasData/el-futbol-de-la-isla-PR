@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project uses **SQL Server** to analyze Puerto Rico's international football history within a dataset of **49,287 international matches** spanning from 1872 to 2024. The central question driving this analysis:
+This project uses **SQL Server** to analyze Puerto Rico's international football history within a dataset of **49,287 international matches** spanning from 1872 to 2026. The central question driving this analysis:
 
 > *Has Puerto Rico football genuinely improved — and can data prove it?*
 
