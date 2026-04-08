@@ -108,8 +108,7 @@ ORDER BY total_goals DESC;
 
 ### 3. Top 10 All-Time International Goalscorers
 
-Cristiano Ronaldo leads all-time international scorers with **121 goals** — nearly double Harry Kane and Robert Lewandowski (69 each). Messi's 63 reflects a historically difficult period for Argentina before his later career surge.
-
+Cristiano Ronaldo leads all-time international scorers with **143 goals**. Followed closely by Lionel Messi with **116**
 ```sql
 SELECT TOP 10
     scorer, team, COUNT(*) AS goals
@@ -199,7 +198,7 @@ ORDER BY decade;
 | Home | 74 | 26 | 15 | 33 | 1.88 | 1.82 |
 | Away | 88 | 15 | 11 | 62 | 0.75 | 2.77 |
 
-Puerto Rico's home advantage is significant — they score **2.5x more goals** at home and win at nearly double the rate. This reflects a pattern common among developing football nations where crowd support and familiarity play an outsized role.
+Puerto Rico's home advantage is significant — they score **2.5x more goals** at home and win at nearly double the rate. This reflects a pattern common among developing football nations where crowd support and familiarity play an outsized role. The Juan Ramón Loubriel effect is real.
 
 ---
 
